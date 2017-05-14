@@ -60,9 +60,6 @@
     "minimist": "^1.2.0",
     "mocha": ">=2.2.5"
   },
-  "os": [
-    "win32"
-  ],
   "gitHead": "e025462083dd1140eed2519c449bc257482bc61b",
   "_id": "msnodesqlv8@0.1.35",
   "scripts": {},
